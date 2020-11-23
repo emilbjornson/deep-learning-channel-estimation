@@ -3,7 +3,7 @@ Channel Estimation in Massive MIMO under Hardware Non-Linearities: Bayesian Meth
 
 This is a code package is related to the follow scientific article:
 
-Özlem Tugfe Demir, Emil Björnson, “[Channel Estimation in Massive MIMO under Hardware Non-Linearities: Bayesian Methods versus Deep Learning](https://arxiv.org/pdf/1911.07316.pdf),” IEEE Open Journal of the Communications Society, To appear.
+Özlem Tugfe Demir, Emil Björnson, “[Channel Estimation in Massive MIMO under Hardware Non-Linearities: Bayesian Methods versus Deep Learning](https://arxiv.org/pdf/1911.07316.pdf),” IEEE Open Journal of the Communications Society, vol. 1, no. 1,  pp. 109-124, 2020.
 
 The package contains a simulation environment that reproduces some of the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
 
